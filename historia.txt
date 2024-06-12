@@ -6,3 +6,5 @@ Esto sigue siendo un ejemplo pero igualmente
 les voy a contar cosas.
 
 Agregaré este párrafo para hablar de mi estatura.
+
+Hoy soy estudiante de programación.
