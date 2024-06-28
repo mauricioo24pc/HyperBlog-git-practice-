@@ -37,3 +37,18 @@ body
 {
     padding-top: 1em   ;
 }
+
+#angus
+{
+    margin:0;
+    width: 30em;
+    height: 40em;
+}   
+
+#imagen 
+{
+    position: relative;
+    margin: auto;
+    left: 15em;
+    align-items: center;
+}
